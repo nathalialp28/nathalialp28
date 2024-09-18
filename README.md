@@ -17,11 +17,16 @@ I'm Data Science brazilian student :bar_chart:
 
   
 :sunglasses: I have expertise in...\
- <img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" x="0px" y="0px" width="40" height="40"> <img loading="lazy" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" x="0px" y="0px" width="27" height="40">
- <img loading="lazy" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" width="40" height="40">
+ <img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" x="0px" y="0px" width="50" height="50"> <img loading="lazy" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" x="0px" y="0px" width="45" height="50">
+ <img loading="lazy" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" width="50" height="50">
 <br>
 :seedling: I'm currently studying and learning...\
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45" /> <img locading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" height="45"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="35" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="55" height="55" /> 
+<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="49" height="55"/> 
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="45" height="45">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="45" height="55"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="50" height="50"/> 
+
+
 
 <br>
 
